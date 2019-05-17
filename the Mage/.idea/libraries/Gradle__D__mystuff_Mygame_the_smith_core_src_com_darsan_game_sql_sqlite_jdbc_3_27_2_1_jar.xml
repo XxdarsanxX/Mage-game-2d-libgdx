@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: D__mystuff_Mygame_the_smith_core_src_com_darsan_game_sql_sqlite_jdbc_3_27_2_1_jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/core/src/com/darsan/game/sql/sqlite-jdbc-3.27.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
